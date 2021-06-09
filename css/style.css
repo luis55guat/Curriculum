@@ -56,12 +56,12 @@ body {
 }
 
 ::selection {
-    background-color: ##63f7b2;
+    background-color: #63f7b2;
     color: #ffffff;
 }
 
 ::-moz-selection {
-    background-color: ##63f7b2;
+    background-color: #63f7b2;
     color: #ffffff;
 }
 
@@ -89,7 +89,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: ##63f7b2;
+    color: #63f7b2;
     text-decoration: none;
 	outline: none;
 }
@@ -119,11 +119,11 @@ fieldset {
 }
 
 .pink-color {
-	color: ##63f7b2 !important;
+	color: #63f7b2 !important;
 }
 
 .pink-color-bg {
-	background-color: ##63f7b2 !important;
+	background-color: #63f7b2 !important;
 }
 
 .section-space-padding {
@@ -160,7 +160,7 @@ fieldset {
 }
 
 .divider > i {
-	color: ##63f7b2;
+	color: #63f7b2;
 	font-size: 21px;
 }
 
@@ -240,7 +240,7 @@ fieldset {
 .button-style-color-2:active,
 .button-style-color-2:focus {
 	color: #ffffff;
-	background: ##63f7b2 !important;
+	background: #63f7b2 !important;
 }
 
 .button-style-dark {
@@ -285,7 +285,7 @@ fieldset {
 
 .preloader:after {
     bottom: 0px;
-    background-color: ##63f7b2;
+    background-color: #63f7b2;
     animation-delay: 0.3s;
 }
 
@@ -385,7 +385,7 @@ tr > td:nth-child(2) {
     letter-spacing: 6px;
     font-weight: 600;
     font-size: 14px;
-	border-bottom: 4px solid ##63f7b2;
+	border-bottom: 4px solid #63f7b2;
     width: 92px;
 }
 
@@ -402,7 +402,7 @@ tr > td:nth-child(2) {
 
 .navigation-menu .navbar-nav li a:hover {
     background: none;
-    color: ##63f7b2;
+    color: #63f7b2;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -529,7 +529,7 @@ tr > td:nth-child(2) {
 
 .experience-content:before {
 	border-color: rgba(238, 238, 238, 0);
-	border-right-color: ##63f7b2;
+	border-right-color: #63f7b2;
 	border-width: 16px;
 	margin-top: -21px;
 }
@@ -560,14 +560,14 @@ tr > td:nth-child(2) {
 	box-shadow: -2px 40px 34px -24px rgba(0, 0, 0, 0.2);
     border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
     border: solid 7px #4c9cef;
-    border-left-color: ##63f7b2;
-    border-right-color: ##63f7b2;
+    border-left-color: #63f7b2;
+    border-right-color: #63f7b2;
 }
 
 .about-me-text p:first-letter {
 	font-size: 35px;
     color: #ffffff;
-    background: ##63f7b2;
+    background: #63f7b2;
     padding: 0px 20px;
     width: 50px;
     height: 50px;
@@ -601,7 +601,7 @@ tr > td:nth-child(2) {
 }
 
 .modal-body .btn {
-	background-color: ##63f7b2;
+	background-color: #63f7b2;
 	margin-top: -68px;
     position: relative;
     margin-right: -35px;
@@ -696,7 +696,7 @@ tr > td:nth-child(2) {
 	letter-spacing: 1px;
 	color: #FFF;
 	font-weight: 600;
-	background: ##63f7b2;
+	background: #63f7b2;
 	border: none;
 	top: 5px;
 	right: 5px;
@@ -751,7 +751,7 @@ ul.portfolio li:hover {
 
 ul.portfolio li.active {
     color: #ffffff;
-    background-color: ##63f7b2;
+    background-color: #63f7b2;
     padding: 5px 20px;
     border-radius: 20px;
     box-shadow: 0px 1px 2px 0px rgba(90, 91, 95, 0.15);
@@ -789,7 +789,7 @@ ul.portfolio li.active {
   opacity: 0;
   left: 0%;
   right: 0%;
-  background-color: ##63f7b2;
+  background-color: #63f7b2;
   width: 70px;
   height: 70px;
   border-radius: 50%;
@@ -806,7 +806,7 @@ ul.portfolio li.active {
 .mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {
 	margin-top: 50px;
     font-size: 40px;
-    background-color: ##63f7b2;
+    background-color: #63f7b2;
     width: 50px;
     right: 10px;
     height: 50px;
@@ -885,7 +885,7 @@ ul.portfolio li.active {
 }
 
 .owl-theme .owl-controls .owl-buttons div:hover {
-	background-color: ##63f7b2;
+	background-color: #63f7b2;
 }
 
 .owl-prev, .owl-next {
@@ -1019,8 +1019,8 @@ ul.portfolio li.active {
     box-shadow: -2px 40px 34px -24px rgba(0, 0, 0, 0.2);
     border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
     border: solid 7px #4c9cef;
-    border-left-color: ##63f7b2;
-    border-right-color: ##63f7b2;
+    border-left-color: #63f7b2;
+    border-right-color: #63f7b2;
 }
 
 .contact-us-detail {
@@ -1034,7 +1034,7 @@ ul.portfolio li.active {
 }
 
 .contact-us-detail:hover {
-	background-color: ##63f7b2;
+	background-color: #63f7b2;
 }
 
 .contact-us-detail a {
@@ -1221,7 +1221,7 @@ ul.portfolio li.active {
 
 .scroll-to-top:hover,
 .scroll-to-top:focus {
-    background-color: ##63f7b2;
+    background-color: #63f7b2;
     color: #ffffff;
     box-shadow: 0px 16px 22px 0px rgba(90, 91, 95, 0.3);
 }
@@ -1276,7 +1276,7 @@ ul.portfolio li.active {
 
 @media only screen and (max-width: 767px) {
     .navbar-toggle .icon-bar {
-        background: ##63f7b2;
+        background: #63f7b2;
     }
     
 	.navigation-background .navbar-toggle .icon-bar {
@@ -1826,5 +1826,5 @@ ul.portfolio li.active {
 }
 
 .uipasta-credit a:hover {
-	color: ##63f7b2;
+	color: #63f7b2;
 }
