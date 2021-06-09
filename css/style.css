@@ -385,7 +385,7 @@ tr > td:nth-child(2) {
     letter-spacing: 7px;
     font-weight: 600;
     font-size: 14px;
-	border-bottom: 4px solid #63f7b2;
+	border-bottom: 4px solid #000000;
     width: 80px;
 }
 
@@ -426,7 +426,7 @@ tr > td:nth-child(2) {
 }
 
 .navigation-background .logo {
-    padding-top: 18px;
+    padding-top: 26px;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
