@@ -382,11 +382,11 @@ tr > td:nth-child(2) {
 .logo a {
     display: block;
     color: #333333;
-    letter-spacing: 6px;
+    letter-spacing: 7px;
     font-weight: 600;
     font-size: 14px;
 	border-bottom: 4px solid #63f7b2;
-    width: 92px;
+    width: 80px;
 }
 
 .navigation-menu .navbar-nav li a {
