@@ -499,10 +499,6 @@ tr > td:nth-child(2) {
 	padding: 20px 25px;
 }
 
-.aline {
-    text-align: left;
-}
-
 .experience-content h3 {
     line-height: 30px;
     font-size: 18px;
@@ -540,6 +536,7 @@ tr > td:nth-child(2) {
 
 .experience-content p {
 	color: #696969;
+    text-align: left;
 }
 
 .experience-color-blue {
