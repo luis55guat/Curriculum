@@ -1,0 +1,34 @@
+<!-- <div class="col-md-6 col-sm-6">
+            <div class="experience">
+              <div class="experience-item">
+                <div class="experience-circle experience-company mint-color-bg">
+                  <i class="icon-energy"></i>
+                </div>
+                <div class="experience-content">
+                  <h3>DevBlog System PVT. LTD.</h3>
+                  <h4>Currently Working, SEO Executive</h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eleifend risus sed feugiat faucibus.</p>
+                </div>
+              </div>
+              <div class="experience-item">
+                <div class="experience-circle experience-company mint-color-bg">
+                  <i class="icon-ghost"></i>
+                </div>
+                <div class="experience-content">
+                  <h3>Rolling System PVT. LTD.</h3>
+                  <h4>2008-2015, Senior Developer</h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eleifend risus sed feugiat faucibus.</p>
+                </div>
+              </div>
+              <div class="experience-item">
+                <div class="experience-circle experience-company mint-color-bg">
+                  <i class="icon-compass"></i>
+                </div>
+                <div class="experience-content">
+                  <h3>WebRec System PVT. LTD.</h3>
+                  <h4>2005-2007, Senior Designer</h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eleifend risus sed feugiat faucibus.</p>
+                </div>
+              </div>
+            </div>
+          </div> -->
