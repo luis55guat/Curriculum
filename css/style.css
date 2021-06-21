@@ -122,9 +122,12 @@ fieldset {
 	color: #63f7b2 !important;
 }
 
+.mint-color-2 {
+	color: #333333;
+}
+
 .mint-color-bg {
 	background-color: #63f7b2 !important;
-    color: #333333;
 }
 
 .section-space-padding {
