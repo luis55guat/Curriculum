@@ -1004,6 +1004,13 @@ ul.portfolio li.active {
 
 
 /* Call to Action */
+.ms-3{
+    padding-top: 30px;
+}
+
+.row h4 {
+    color: white;
+}
 
 .call-to-action {
 	background: url(../images/bg/call-to-action.png);
